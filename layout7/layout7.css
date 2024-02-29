@@ -1,0 +1,129 @@
+.menu_bar
+{
+    
+    
+    height:50px;
+    width:10%;
+    float:left;
+
+
+}
+
+
+.menu_list
+{
+    
+  
+    height:700px;
+    width:10%;
+    float:left;
+    display:block;
+
+}
+
+.logo
+{
+    
+   
+    height:50px;
+    width:10%;
+    float:left;
+    
+
+}
+
+.serch
+{
+   
+    
+    height:50px;
+    width:78%;
+    float:left;
+}
+
+.contents_block
+{
+    
+    
+    width:88%;
+    height:700px;
+    float:left;
+    display:block;
+}
+
+.contents_list
+{
+    
+    float:left;
+    width:33.3%;
+    height:400px;
+    display:block;
+   
+}
+
+.clear
+{
+    clear:both;
+}
+
+.home
+{
+   
+    height:100px;
+
+}
+
+.shorts
+{
+    
+    height:100px;
+}
+
+.good
+{
+    
+    height:100px;
+}
+
+.music
+{
+  
+    height:100px;
+}
+
+.contents_img
+{
+    height:200px;
+    width:auto;
+    margin:auto;
+    display:block;
+    border-radius:20px;
+    
+}
+
+.contents_text
+{
+    text-align:center;
+    text-decoration-color:green;
+
+}
+
+.icon_size
+{
+    height:50px;
+
+    margin:auto;
+    display:block;
+}
+
+a,
+a:link,
+a:visited,
+a:hover,
+a:active,
+a:focus
+{
+    text-decoration: none;
+    color:blue;
+    font-size:16px;
+}
